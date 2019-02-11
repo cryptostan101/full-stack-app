@@ -1,4 +1,7 @@
 # A Full Stack Dockerize NodeJS
+
+[![Build Status](https://travis-ci.org/cryptostan101/full-stack-app.svg?branch=master)](https://travis-ci.org/cryptostan101/full-stack-app)
+
 - This is a full stack application which uses Nodejs / Docker
 - Travis CI will run test and docker deployment
 - Technology - NodeJS / Docker / Docker compose / Travis CI / Express / Mocha & Chai / Eslint / Nodemon
