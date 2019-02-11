@@ -3,10 +3,13 @@
 - Travis CI will run test and docker deployment
 - Technology - NodeJS / Docker / Docker compose / Travis CI / Express / Mocha & Chai / Eslint / Nodemon
 
-## OS Installation Dependency
+## OS Installation Dependency - Run non local (Docker)
 
-- Install NodeJS version 8
 - Install Docker
+
+## Run Locally
+
+- Edit mongodb hostname and port in config.js file which is in the root of your project
 
 ## Quick Start
 

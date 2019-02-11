@@ -1,5 +1,6 @@
 language: node_js
 services:
+  - mongo
   - docker
 node_js:
   - "8"
