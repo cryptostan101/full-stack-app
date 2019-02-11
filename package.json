@@ -7,7 +7,7 @@
     "start": "node app.js",
     "server": "nodemon app.js",
     "lint": "eslint ./",
-    "test": "mocha --timeout 10000"
+    "test": "mocha"
   },
   "keywords": [
     "Docker",

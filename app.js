@@ -33,4 +33,7 @@ app.use('/api', persons);
 
 const port = process.env.PORT || 5000;
 
-module.exports = app.listen(port, () => console.log(`Server started on port http://localhost:${port}`));
+// const port = process.env.PORT || (process.argv[2] || 5000);
+
+
+module.exports = app.listen(5000, () => console.log(`Server started on port http://localhost:${port}`));
