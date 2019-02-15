@@ -13,6 +13,7 @@
 ## Run Locally
 
 - Edit mongodb hostname and port in config.js file which is in the root of your project
+- Run npm start
 
 ## Quick Start
 

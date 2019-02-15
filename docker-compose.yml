@@ -13,3 +13,7 @@ services:
     image: mongo
     ports:
       - '27017:27017'
+  adminmongo:
+    image: adicom/admin-mongo
+    ports:
+      - '1234:1234'
